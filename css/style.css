@@ -1,9 +1,19 @@
 *{
-    color: purple
+    color: orange;
+    background-color: black;
+    text-align: center;
+    font-size: xx-large;
+    list-style-position: inside;
 }
 h1{
-    color: blue
+    color: blue;
+    font-size: x-large;
 }
 h3{
-    color: red
+    color: yellow;
+}
+img{
+    height: 400px;
+    width:500px;
+    border-radius: 250%;
 }
